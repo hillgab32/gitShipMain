@@ -2,7 +2,7 @@
 
 //crew roster
 String pilot = "Prof Kit";
-String copilot = "dookiebrain";
+String copilot = "coolguy";
 
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen

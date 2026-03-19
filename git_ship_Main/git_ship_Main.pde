@@ -7,13 +7,13 @@ String copilot = "";
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
 boolean displays = true; //powers up left and right cockpit displays
-boolean attitudeControl = true;
+boolean attitudeControl = false;
 boolean artificialGravity = false;
-boolean sensors = false; //turns on sensors
-boolean parkingBrake = true;
+boolean sensors = true; //turns on sensors
+boolean parkingBrake = false;
 boolean shields = false; //turns on shields
 
-boolean redAlert = false; //turns on red alert
+boolean redAlert = true; //turns on red alert
 
 // End of variables to mess with in Basic Training
 
